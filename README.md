@@ -1,16 +1,20 @@
-## Hi there 👋
+# Hey, I'm Charles 👋
 
-<!--
-**rickquant/rickquant** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build **AI agents in Python** — assistants that talk, remember, and act.
 
-Here are some ideas to get you started:
+Industrial & Systems Engineering student in Tegucigalpa, Honduras 🇭🇳.
+Learning in public: everything below is real, running code, built at $0 infrastructure cost.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm building
+
+- 🔵 **[jarvis](https://github.com/rickquant/jarvis)** — J.A.R.V.I.S.-style voice assistant for macOS: wake word, local Whisper, Claude with allowlisted tool use, persistent memory on an Obsidian vault, and an Iron Man-style HUD. My main project.
+- 📥 **[canvas-automation](https://github.com/rickquant/canvas-automation)** — Canvas LMS assignment alerts on Telegram. Solves a real problem I had at university — and Jarvis reuses it for spoken morning briefings.
+- 📉 **[quantito](https://github.com/rickquant/quantito)** — archived trading bot with an honest post-mortem: what a Sharpe-6 backtest taught me about overfitting.
+
+## Stack
+
+Python · Claude API & agent tooling · Flask · REST APIs · Whisper (local STT) · edge-tts · Obsidian-as-memory
+
+## Reach me
+
+📫 oficialcharles9@gmail.com
