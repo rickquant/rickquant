@@ -17,4 +17,4 @@ Python · Claude API & agent tooling · Flask · REST APIs · Whisper (local STT
 
 ## Reach me
 
-📫 oficialcharles9@gmail.com
+charlesrickzelaya@gmail.com
