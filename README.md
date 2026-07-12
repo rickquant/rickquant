@@ -1,4 +1,4 @@
-# Hey, I'm Charles 👋
+# Hey, I'm Charles 
 
 I build **AI agents in Python** — assistants that talk, remember, and act.
 
