@@ -3,8 +3,7 @@
 I build **AI agents in Python** — assistants that talk, remember, and act.
 
 Industrial & Systems Engineering student in Tegucigalpa, Honduras 🇭🇳.
-Learning in public: everything below is real, running code, built at $0 infrastructure cost.
-
+Learning in public: everything below is real and running code
 ## What I'm building
 
 - 🔵 **[jarvis](https://github.com/rickquant/jarvis)** — J.A.R.V.I.S.-style voice assistant for macOS: wake word, local Whisper, Claude with allowlisted tool use, persistent memory on an Obsidian vault, and an Iron Man-style HUD. My main project.
